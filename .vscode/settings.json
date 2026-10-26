@@ -1,0 +1,21 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "[html]": {
+    "editor.quickSuggestions": {
+      "other": "on",
+      "comments": "off",
+      "strings": "on"
+    },
+    "editor.suggestOnTriggerCharacters": true
+  },
+  "[css]": {
+    "editor.quickSuggestions": {
+      "other": "on",
+      "comments": "off",
+      "strings": "on"
+    },
+    "editor.suggestOnTriggerCharacters": true
+  },
+  "html.suggest.html5": true,
+  "emmet.triggerExpansionOnTab": true
+}
